@@ -2,7 +2,7 @@
 
 @section('content')
 <<<<<<< HEAD
-  <h1>主页aaaa233333333333333aa</h1>
+  <h1>主页2</h1>
 =======
   <div class="jumbotron">
     <h1>Hello Laravel</h1>
