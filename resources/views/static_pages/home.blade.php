@@ -1,7 +1,7 @@
 @extends('layouts.default')
 
 @section('content')
-<<<<<<< HEAD
+
   <h1>主页2</h1>
 =======
   <div class="jumbotron">
@@ -16,5 +16,4 @@
       <a class="btn btn-lg btn-success" href="{{ route('signup') }}" role="button">现在注册</a>
     </p>
   </div>
->>>>>>> sign-up
 @stop
