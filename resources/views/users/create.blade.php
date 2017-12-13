@@ -2,6 +2,7 @@
 @section('title', '注册')
 
 @section('content')
+<<<<<<< HEAD
 <div class="col-md-offset-2 col-md-8">
   <div class="panel panel-default">
     <div class="panel-heading">
@@ -39,3 +40,7 @@
   </div>
 </div>
 @stop
+=======
+<h1> 注册。。。</h1>
+@stop
+>>>>>>> filling-layout-style
